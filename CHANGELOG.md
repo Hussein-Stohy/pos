@@ -10,6 +10,8 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). Ver
 
 ### Added
 
+- **Marketing / Kebab Express:** Registered **satisfecho.de/kebab-express/es/** — manifest entry for **`092_kebabexpress`** (slug **`kebab-express`** matches SPA **`baseHref`**; artifact **`kebab-express-satisfecho-deploy`**; **`deploySubpath`** **`es`**).
+
 ### Changed
 
 ### Fixed
